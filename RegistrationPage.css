@@ -1,0 +1,46 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background: #DCF1F1;
+    font-size: large;
+}
+
+label{
+    text-align: left;
+    display: inline-block;
+    width: 300px;
+    color: indigo;
+    font-size: larger;
+}
+
+h1{
+    color: indigo;
+}
+
+form{
+    display: inline-block;
+    border-style: solid;
+    padding: 20px;
+    background: rgb(241, 236, 227);
+}
+
+.registrationPage{
+    text-align: center;
+}
+
+button {
+    margin: 0 1.5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: #cc4233;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5%;
+    cursor: pointer;
+  }
+  

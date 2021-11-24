@@ -1,0 +1,21 @@
+body {
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  background: #DCF1F1;
+}
+
+h1{
+    color: indigo;
+}
+
+p {
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0% 10% 0% 10%;
+}
+
+.images{
+    display: inline-block;
+}
+
